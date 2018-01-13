@@ -20,6 +20,8 @@ Healthbar is fully functional (loose health when hit, Gain health when healed(vi
 2/3 enemies have death animations and will leave a corpse on the battlefield.
 Camera will also follow the player
 
+All Art is from https://opengameart.org/ Additional Credits to artists can be found in the credits.txt file
+
 Feel free to use or modify any of my code for your own projects.
 Let me know if you have any questions at ZachariBarnes@yahoo.com
 Enjoy
